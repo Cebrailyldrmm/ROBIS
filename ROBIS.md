@@ -16,3 +16,16 @@ Turistik ve kültürel alanlarda kimi zaman yardımcı isteyebiliyoruz veya bize
 # Kullanılacak Yazılım Dilleri
 ARDUNİO
 C# // OTOMASYON İÇİN 
+
+# İş Dağılımı 
+ 
+// Robotun ana yazılımı  ( Cebrail YILDIRIM )
+//Robotun hareketi için olan yazılımı ( Cebrail YILDIRIM )
+//Robotun Otomasyonu (Abdulsamet EGIN)
+//Veritabanı tablolarının oluşturulması (Abdulsamet EGIN)
+//Otonomasyon  arayüzü tasarımı ( Cebrail YILDIRIM )
+
+# check list
+
+//Cebrail YILDIRIM
+
